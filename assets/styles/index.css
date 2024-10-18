@@ -2,6 +2,7 @@ body {
     background-color: rgb(199, 181, 214);
     margin: 0px;
     padding: 0px;
+    overflow-x: hidden;
 }
 
 header{
